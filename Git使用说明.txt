@@ -1,5 +1,0 @@
-### Ö´ÐÐ
-git add add.php addok.php conn.php del.php edit.php editok.php ftpsql.sql index.php
-git commit -m "int files"
-git pull --rebase origin master
-git push -u origin master
